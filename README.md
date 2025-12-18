@@ -1,0 +1,1 @@
+Desenvolvimento de um sistema distribuído para armazenamento e recuperação de documentos. Este sistema deve permitir que clientes submetam ficheiros, que são processados para gerar embeddings (vetores de características) usando a biblioteca FAISS, e armazenados de forma descentralizada no IPFS (InterPlanetary File System).
